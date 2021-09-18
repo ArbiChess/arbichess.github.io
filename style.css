@@ -1,0 +1,17 @@
+body {padding: 20px 6%;}
+@media screen and (min-width: 800px) {
+    body {
+        padding: 20px 24%;
+    }
+    #eImg img{width: 72%;}
+
+}
+#logoImg {padding-bottom: 20px; width: 180px;}
+#walletBtn {float: right;}
+.panel-primary>.panel-heading, .btn-primary {background-color: #2d374b;border-color: #2d374b;}
+.smalli {font-size: 1rem;float: right;}
+.input-group-addon {cursor: pointer;}
+.jumbotron {border-radius: 4px;}
+.jumbotron a {font-size: 1.6rem; font-weight: bold;}
+.td-b {font-weight: bold;}
+#eImg {text-align: center;}
