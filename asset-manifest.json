@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f216547.chunk.css",
-    "main.js": "/static/js/main.54a90d79.chunk.js",
-    "main.js.map": "/static/js/main.54a90d79.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ec8de58c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ec8de58c.js.map",
-    "static/css/2.f5180200.chunk.css": "/static/css/2.f5180200.chunk.css",
-    "static/js/2.d86da072.chunk.js": "/static/js/2.d86da072.chunk.js",
-    "static/js/2.d86da072.chunk.js.map": "/static/js/2.d86da072.chunk.js.map",
-    "static/js/3.e089be44.chunk.js": "/static/js/3.e089be44.chunk.js",
-    "static/js/3.e089be44.chunk.js.map": "/static/js/3.e089be44.chunk.js.map",
+    "main.css": "/farm-static/css/main.0f216547.chunk.css",
+    "main.js": "/farm-static/js/main.54a90d79.chunk.js",
+    "main.js.map": "/farm-static/js/main.54a90d79.chunk.js.map",
+    "runtime-main.js": "/farm-static/js/runtime-main.ec8de58c.js",
+    "runtime-main.js.map": "/farm-static/js/runtime-main.ec8de58c.js.map",
+    "farm-static/css/2.f5180200.chunk.css": "/farm-static/css/2.f5180200.chunk.css",
+    "farm-static/js/2.d86da072.chunk.js": "/farm-static/js/2.d86da072.chunk.js",
+    "farm-static/js/2.d86da072.chunk.js.map": "/farm-static/js/2.d86da072.chunk.js.map",
+    "farm-static/js/3.e089be44.chunk.js": "/farm-static/js/3.e089be44.chunk.js",
+    "farm-static/js/3.e089be44.chunk.js.map": "/farm-static/js/3.e089be44.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.f5180200.chunk.css.map": "/static/css/2.f5180200.chunk.css.map",
-    "static/css/main.0f216547.chunk.css.map": "/static/css/main.0f216547.chunk.css.map",
-    "static/js/2.d86da072.chunk.js.LICENSE.txt": "/static/js/2.d86da072.chunk.js.LICENSE.txt",
-    "static/media/bootstrap.css": "/static/media/glyphicons-halflings-regular.be810be3.woff2",
-    "static/media/logo.beb2357e.png": "/static/media/logo.beb2357e.png"
+    "farm-static/css/2.f5180200.chunk.css.map": "/farm-static/css/2.f5180200.chunk.css.map",
+    "farm-static/css/main.0f216547.chunk.css.map": "/farm-static/css/main.0f216547.chunk.css.map",
+    "farm-static/js/2.d86da072.chunk.js.LICENSE.txt": "/farm-static/js/2.d86da072.chunk.js.LICENSE.txt",
+    "farm-static/media/bootstrap.css": "/farm-static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "farm-static/media/logo.beb2357e.png": "/farm-static/media/logo.beb2357e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec8de58c.js",
-    "static/css/2.f5180200.chunk.css",
-    "static/js/2.d86da072.chunk.js",
-    "static/css/main.0f216547.chunk.css",
-    "static/js/main.54a90d79.chunk.js"
+    "farm-static/js/runtime-main.ec8de58c.js",
+    "farm-static/css/2.f5180200.chunk.css",
+    "farm-static/js/2.d86da072.chunk.js",
+    "farm-static/css/main.0f216547.chunk.css",
+    "farm-static/js/main.54a90d79.chunk.js"
   ]
 }
